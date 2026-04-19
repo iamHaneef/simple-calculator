@@ -1,2 +1,26 @@
-# calsi
-Welcome to our simple calculator project! Built with HTML, CSS, and JavaScript, this efficient tool provides basic arithmetic functions in a clean and intuitive interface. Explore the codebase, understand the logic, and customize it to suit your needs. Happy calculating!
+# Simple Calculator
+
+A basic web-based calculator that performs standard arithmetic operations.
+
+---
+
+## Features
+
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division  
+
+---
+
+## How to Run
+
+Open `index.html` in a web browser.
+
+---
+
+## Technologies Used
+
+- HTML  
+- CSS  
+- JavaScript  
