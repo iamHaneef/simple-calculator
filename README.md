@@ -1,10 +1,13 @@
 # Simple Calculator
 
-A basic web-based calculator that performs standard arithmetic operations.
+## 📌 Overview
+
+A basic web-based calculator that performs standard arithmetic operations.  
+This project demonstrates fundamental JavaScript logic and user input handling.
 
 ---
 
-## Features
+## ⚡ Features
 
 - Addition  
 - Subtraction  
@@ -13,14 +16,28 @@ A basic web-based calculator that performs standard arithmetic operations.
 
 ---
 
-## How to Run
-
-Open `index.html` in a web browser.
-
----
-
-## Technologies Used
+## 🛠️ Tech Stack
 
 - HTML  
 - CSS  
 - JavaScript  
+
+---
+
+## 📂 Project Structure
+
+```bash
+simple-calculator/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+└── README.md
+```
+
+---
+
+## 🚀 How to Run
+
+> Open `index.html` in any modern web browser.
